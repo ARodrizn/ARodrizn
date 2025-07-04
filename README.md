@@ -1,6 +1,5 @@
 ## Que tal! 👋 Soy Andres Rodriguez
 
-- Descripcion...
+- Mi pasion es aprender acerca de la `Programacion` ⭐
 
-#### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARodrizn&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=radical)
